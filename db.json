@@ -1,0 +1,87 @@
+{
+  "todos": [
+    {
+      "title": "he23",
+      "description": "Mô tả công việc",
+      "priority": "high",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "eee",
+      "description": "hahaha",
+      "priority": "medium",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "ttttttt",
+      "description": "yyyyyy",
+      "priority": "high",
+      "status": true,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "tienpham291052005@gmail.com",
+      "password": "3333",
+      "id": 1
+    },
+    {
+      "email": "add22@gmail.com",
+      "password": "$2a$10$EBd6BRRJeetwYfwv9QQ3oeSBGNkLgL2FZL7Lr4bfTI1czXO1XcbQS",
+      "id": 2
+    },
+    {
+      "email": "tienpham2922052005@gmail.com",
+      "password": "$2a$10$xs47v6A2CgKvTfoNZifHCegBBBt44/8eFECwTBTZPFUm/NhCD1ci2",
+      "id": 3
+    },
+    {
+      "email": "le984443245@gmail.com",
+      "password": "$2a$10$CRcvnx1LsFSE3.t.c0eR6.RbNP74gSesp5pqrKMfRhaCCne8CFAiK",
+      "id": 4
+    },
+    {
+      "email": "tienpham29052005@gmail.com",
+      "password": "$2a$10$vPbi4vOjErW8XAARFRfyneUGCq.P.NXTf4Bc.sUp3N3cP3Aa3d3zi",
+      "id": 5
+    },
+    {
+      "email": "tienpham2911052005@gmail.com",
+      "password": "$2a$10$7sx4b/YuwXl8LuGNkLC7AuI2CAm2sRPxCBOxX51449UTF0chQkhoC",
+      "id": 6
+    },
+    {
+      "email": "tienpham29113052005@gmail.com",
+      "password": "$2a$10$2gTBLsemRXuClBL.YXG9jemlGz5kjQeR1BhTDhd3qVcIIfDGQnyfi",
+      "id": 7
+    },
+    {
+      "email": "le98434445@gmail.com",
+      "password": "$2a$10$7OcwQA9LBdefjAplNpSTq.KGkWhR.ImvvUhKOUPtoQEAuNEoZc2AW",
+      "id": 8
+    },
+    {
+      "email": "add223@gmail.com",
+      "password": "$2a$10$.aJbsewbM5SaDQNt9skl5Ohh2G4qTaveFGHBBwC/.DPIdF4A.wUrm",
+      "id": 9
+    },
+    {
+      "email": "add224@gmail.com",
+      "password": "$2a$10$GjADnw9Ou0E67vJORwgPxecexLgulhs9pWD4CVR0lmeWTde1cXfRC",
+      "id": 10
+    },
+    {
+      "email": "add220@gmail.com",
+      "password": "$2a$10$5h7CNNGPebtWtjrD.ixY5.AopXleWmJu.lO/Cf9APfRpvR7q0gDp.",
+      "id": 11
+    },
+    {
+      "email": "le98444435@gmail.com",
+      "password": "$2a$10$ENz2A2Av.nHDvhDCxXhkR.Y8ibpHBopU38L5dEN.ilmFLv6S3Rzkm",
+      "id": 12
+    }
+  ]
+}
